@@ -7,4 +7,4 @@ export default class extends Component{
             store.dispatch({type:'INCREMENT', size:size});
         }.bind(this)}></AddNumber>
     }
-}
+} 
